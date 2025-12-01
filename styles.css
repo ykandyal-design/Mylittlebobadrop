@@ -1,0 +1,41 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: brown;
+  font-family: Georgia, serif;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+}
+
+.recipe {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.coffee-pic {
+  width: 150px;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.recipe ol {
+  text-align: left;
+}
+
+footer {
+  margin-top: 50px;
+  font-size: 1.2rem;
+  opacity: 0.85;
+}
